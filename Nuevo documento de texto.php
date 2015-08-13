@@ -7,6 +7,8 @@
 	</title>
 </head>
 <body>
-
+<?php
+echo "Hola mierda";
+?>
 </body>
 </html>
