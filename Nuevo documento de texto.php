@@ -8,7 +8,7 @@
 </head>
 <body>
 <?php
-echo "zenzuraDo";
+echo "Hola mierda";
 ?>
 </body>
 </html>
